@@ -57,7 +57,7 @@ Following changes have been done, to get the best results out of my data:
 - adding a DropOut-Layer just before the first fully connecete layer to avoid overfitting
 - use ELU instead of RELU as an acitvation function 
 
-The model was trained and validated on different data sets to ensure that the model was not overfitting (code line 10-16). The model was tested by running it through the simulator and ensuring that the vehicle could stay on the track.
+The model was trained and validated on different data sets to ensure that the model was not overfitting. The model was tested by running it through the simulator and ensuring that the vehicle could stay on the track.
 
 The model used an adam optimizer, so the learning rate was tuned manually to 0.0001.
 
