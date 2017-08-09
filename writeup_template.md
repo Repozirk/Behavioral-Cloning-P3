@@ -80,4 +80,6 @@ To improve the CNN performance on test and validation data, argumented data was 
 
 I finally randomly shuffled the data set and put 20% of the data into a validation set. 
 
-I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was 2 with an adam optimizer.
+I used this training data for training the model. The validation set helped determine if the model was over or under fitting. Depending on MSE-Loss and Val-Loss, the ideal number of epochs was 2 with an adam optimizer and a learning rate of 0,0001.
+
+All the descripted steps of changing the CNN architecture, collecting and argumentation of data, and tuning the model paramters, resulted in the desired behavior in the simulation: Keeping the car on the track.
