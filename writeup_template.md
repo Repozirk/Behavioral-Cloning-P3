@@ -70,7 +70,7 @@ The raw data consists of the images from the center, right and left images. I de
 ![alt text][image3]
 ![alt text][image4]
 
-![alt text][image5]: ./distriubution.png "Distribution of Training_Data"
+![alt text][image5]
 
 
 To improve the CNN performance on test and validation data, argumented data was created by flipping the images and taking the opposite sign of the steering angles.
