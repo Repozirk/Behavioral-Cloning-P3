@@ -14,11 +14,11 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/placeholder.png "Model Visualization"
-[image2]: ./examples/placeholder.png "Grayscaling"
-[image3]: ./examples/placeholder_small.png "Recovery Image"
-[image4]: ./examples/placeholder_small.png "Recovery Image"
-[image5]: ./examples/placeholder_small.png "Recovery Image"
+[image1]: ./center.png "Center Camera"
+[image2]: ./center_flipped.png "Center Camera flipped"
+[image3]: ./right.png "Right Camera"
+[image4]: ./left.png "Left Camera"
+[image5]: ./distriubution.png "Distribution of Training_Data"
 [image6]: ./examples/placeholder_small.png "Normal Image"
 [image7]: ./examples/placeholder_small.png "Flipped Image"
 
